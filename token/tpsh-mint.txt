@@ -1,0 +1,7 @@
+{
+  "name": "TYPE SHYT COIN",
+  "symbol": "TPSH",
+  "mint": "YOUR_MINT_ADDRESS",
+  "decimals": 6,
+  "tags": ["meme","utility","solana"]
+}
